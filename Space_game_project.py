@@ -164,5 +164,4 @@ while running:
     
     player(playerX, playerY)
     show_score(textX,textY)
-    pygame.display.update()#this line is compulsary to update the screen after each event taking place in game.
-                            #so it is compulsory to use it.
+    pygame.display.update()#this line is compulsary to update the screen after each event taking place in game.So it is compulsory to use it.
